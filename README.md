@@ -1,0 +1,2 @@
+# starsh
+A stupid language
